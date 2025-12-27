@@ -1,7 +1,8 @@
 
   # FacultyPing Dashboard Design
 
-  This is a code bundle for FacultyPing Dashboard Design. The original project is available at https://www.figma.com/design/cV8ZCzKqDcxtEVoiJpBoyK/FacultyPing-Dashboard-Design.
+Deployed Project for 3rd semester
+https://facultyping-56ec9.web.app/
 
   ## Running the code
 
